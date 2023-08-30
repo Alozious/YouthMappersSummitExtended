@@ -1978,6 +1978,38 @@ section {
   display: none;
 }
 
+
+
+#organizers img, #partners img {
+  width: 100%;
+}
+#organizers .icon-box, #partners .icon-box {
+  padding: 0 10px;
+  text-align: center;
+}
+#organizers .icon-box h4 {
+  font-weight: 600;
+  margin-top: 10px;
+  font-size: 13px;
+  color: #F86923;
+  margin-bottom: 0;
+  font-family: Ubuntu-Regular;
+}
+
+#organizers .icon-box p {
+  color: #fff;
+  line-height: 20px;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+#organizers .owl-controls .owl-page span,
+#live_organizers .owl-controls .owl-page span {
+  display: none;
+}
+
+
+
+
 .prog_tabs_area {
   /*background-color: #000a32;*/
 }
@@ -2250,7 +2282,7 @@ section {
 }
 
 .about-summit {
-  background: linear-gradient(rgba(2, 94, 76, 0.8), rgba(2, 94, 76, 0.8)), url("../img/arena-bg.jpeg") center center;
+  background: linear-gradient(rgba(2, 94, 76, 0.8), rgba(2, 94, 76, 0.8)), url("../img/bgimage.png") center center;
   background-size: cover;
   padding: 50px 0;
 }
