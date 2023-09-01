@@ -657,7 +657,7 @@ section {
 }
 
 .about .content ul li + li {
-  margin-top: 10px;
+  margin-top: 3px;
 }
 
 .about .content ul i {
@@ -834,7 +834,7 @@ section {
 }
 
 .skills .content ul li {
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .skills .content ul i {
@@ -2224,6 +2224,7 @@ section {
 }
 .goals .icon-box p {
   color: #fff;
+  
 }
 .goals_two {
   padding: 50px 0;
@@ -2238,7 +2239,7 @@ section {
 }
 .goals_two .icon-box p {
   color: #fff;
-  font-size: 1.2rem;
+  font-size: 1.05rem;
 }
 
 .youth-hub {
@@ -2278,7 +2279,7 @@ section {
   font-size: 1.3rem;
 }
 .youth-hub2 p {
-  font-size: 1.3rem;
+  font-size: 1.05rem;
 }
 
 .about-summit {
@@ -2288,10 +2289,12 @@ section {
 }
 .about-summit p {
   color: #fff;
-  font-size: 1.3rem;
+  font-size: 1.05rem;
+  justify-content: center;
+  align-content: center;
 }
 .who-attend ul li {
-  font-size: 1.3rem;
+  font-size: 1.05rem;
   color: #fff;
 }
 .who-attend ul i {
@@ -2299,7 +2302,7 @@ section {
 }
 
 .thematic .content ul li {
-  font-size: 1.3rem;
+  font-size: 1.05rem;
 }
 .thematic .content ul li img {
   position: absolute;
